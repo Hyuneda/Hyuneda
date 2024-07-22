@@ -3,7 +3,7 @@
 **자랑할 수 있다**
 
 <img src = "https://img.shields.io/pypi/pyversions/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
-<a href="jshalapong92@ewhain.net">
+<a href="mailto:jshalapong92@ewhain.net">
   <img src = "https://img.shields.io/pypi/pyversions/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=red&label=Gmail">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Joo%Si%Hyeon&color=6FC7E1&animation=twinkling)
