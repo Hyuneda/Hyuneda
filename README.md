@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Joo%Si%Hyeon&color=6FC7E1&animation=twinkling)
 <!--
 **Hyuneda/Hyuneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
