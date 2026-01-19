@@ -2,9 +2,12 @@
 
 **쥬C**
 
-<img src = "https://img.shields.io/pypi/pyversions/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white">
 <a href="mailto:jshalapong92@ewhain.net">
-  <img src = "https://img.shields.io/pypi/pyversions/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=red&label=Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Joo%Si%Hyeon&color=6FC7E1&animation=twinkling)
 <!--
