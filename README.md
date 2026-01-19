@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**쥬C☆**
+**쥬C**
 
 <img src = "https://img.shields.io/pypi/pyversions/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow">
 <a href="mailto:jshalapong92@ewhain.net">
