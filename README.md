@@ -5,13 +5,10 @@
 <div align="center">
 
 
-## "Mechanical Engineering based AI Robotics Engineer"
-
-🤖 Robotics: ROS2, SLAM/Navigation, PLC Control
-
+## "Mechanical Engineering based AI Engineer"
 🧠 AI & Vision: Computer Vision(OpenCV), Deep Learning(Signal/Image)
-
-📐 Design: 3D Modeling(Fusion360, Ansys)
+🤖 Robotics: ROS2, SLAM/Navigation, PLC Control
+📐 Design: 3D Modeling(AutoCAD, Ansys)
 
 <br>
 
@@ -30,7 +27,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 <br>
-
 
 ## 📬 Contact 
 <a href="mailto:jshalapong92@ewhain.net">
