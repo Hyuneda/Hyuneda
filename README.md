@@ -3,7 +3,7 @@
 **쥬C**
 
 <div align="center">
-  <img src="https://github.com/Hyuneda/Hyuneda/blob/main/profile.gif?raw=true" width="100%" />
+  <img src="https://github.com/Hyuneda/Hyuneda/blob/main/profilee.gif?raw=true" width="100%" />
 </div>
 
 <div align="center">
