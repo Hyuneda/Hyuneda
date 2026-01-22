@@ -9,8 +9,10 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=venom&text=Joo%Si%Hyeon&color=6FC7E1&animation=twinkling)
+<div align="center">
+  <img src="https://github.com/Hyuneda/Hyuneda/blob/main/profile.gif?raw=true" width="100%" />
+</div>
+
 <!--
 **Hyuneda/Hyuneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
