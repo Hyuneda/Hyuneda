@@ -1,16 +1,15 @@
-## About Me
-
-"Mechanical Engineering based AI Robotics Engineer"
-
-🤖 Robotics: ROS2, SLAM/Navigation, PLC Control
-
-🧠 AI & Vision: Computer Vision(OpenCV), Deep Learning(Signal/Image)
-
 <div align="center">
   <img src="https://github.com/Hyuneda/Hyuneda/blob/main/profilee.gif?raw=true" width="100%" />
 </div>
 
 <div align="center">
+
+
+## "Mechanical Engineering based AI Robotics Engineer"
+
+🤖 Robotics: ROS2, SLAM/Navigation, PLC Control
+
+🧠 AI & Vision: Computer Vision(OpenCV), Deep Learning(Signal/Image)
 
 
 ## ✨ Tech Stack 
