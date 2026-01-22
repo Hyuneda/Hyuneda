@@ -11,6 +11,7 @@
 
 🧠 AI & Vision: Computer Vision(OpenCV), Deep Learning(Signal/Image)
 
+📐 Design: 3D Modeling(Fusion360, Ansys)
 
 ## ✨ Tech Stack 
 
